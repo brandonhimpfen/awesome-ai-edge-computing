@@ -30,6 +30,7 @@
 - [Apache TVM](https://tvm.apache.org/) - An open-source deep learning compiler stack for running machine learning models on edge devices.
 - [Edge Impulse SDK](https://docs.edgeimpulse.com/) - A toolkit for building, optimizing, and deploying machine learning models on edge devices.
 - [DeepC](https://deepc.ai/) - A framework for deploying deep learning models on microcontrollers and edge devices with limited resources.
+- [Xybrid](https://github.com/xybrid-ai/xybrid) - An open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.
 
 ## Hardware and Accelerators
 
