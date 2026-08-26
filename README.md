@@ -28,6 +28,7 @@
 - [ONNX Runtime](https://onnxruntime.ai/) - A cross-platform, high-performance scoring engine for running ONNX models on edge devices.
 - [PyTorch Mobile](https://pytorch.org/mobile/home/) - A version of PyTorch tailored for mobile devices, enabling deployment of PyTorch models on iOS and Android.
 - [Apache TVM](https://tvm.apache.org/) - An open-source deep learning compiler stack for running machine learning models on edge devices.
+- [CosmoEdge](https://github.com/cosmo-wander-ai/cosmo-edge) - An Apache-2.0 C++17 edge video AI engine with RTSP ingestion, visual CV/VLM pipeline orchestration, alarms, structured event delivery, and NPU backends for Sophon and Rockchip.
 - [Edge Impulse SDK](https://docs.edgeimpulse.com/) - A toolkit for building, optimizing, and deploying machine learning models on edge devices.
 - [DeepC](https://deepc.ai/) - A framework for deploying deep learning models on microcontrollers and edge devices with limited resources.
 
