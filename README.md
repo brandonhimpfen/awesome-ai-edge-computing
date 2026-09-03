@@ -56,6 +56,7 @@
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) - A high-performance deep learning inference optimizer and runtime for NVIDIA GPUs, including Jetson devices.
 - [OctoML](https://octoml.ai/) - An automated machine learning optimization platform for deploying efficient AI models on edge hardware.
 - [TinyML](https://www.tinyml.org/) - A community and set of tools focused on running machine learning models on microcontrollers and other low-power devices.
+- [ane-embed-pipeline](https://github.com/Rezarys/ane-embed-pipeline) - A CI pipeline that converts and quantizes Hugging Face embedding models to CoreML, optimized for Apple Neural Engine, maintained as a Swift package.
 
 ## Applications
 
