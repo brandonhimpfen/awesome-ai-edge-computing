@@ -32,6 +32,7 @@
 - [CosmoEdge](https://github.com/cosmo-wander-ai/cosmo-edge) - An Apache-2.0 C++17 edge video AI engine with RTSP ingestion, visual CV/VLM pipeline orchestration, alarms, structured event delivery, and NPU backends for Sophon and Rockchip.
 - [Edge Impulse SDK](https://docs.edgeimpulse.com/) - A toolkit for building, optimizing, and deploying machine learning models on edge devices.
 - [DeepC](https://deepc.ai/) - A framework for deploying deep learning models on microcontrollers and edge devices with limited resources.
+- [jevos](https://github.com/feder-cr/jev) - An open-source, MIT-licensed 1B-parameter yes/no decision model that runs fully offline on a laptop CPU via llama.cpp (GGUF q4_k_m, 619 MB), returning P(yes) in a single forward pass through a Jev-compatible HTTP API.
 
 ## Hardware and Accelerators
 
