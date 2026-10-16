@@ -39,8 +39,8 @@
 - [Google Coral](https://coral.ai/) - Edge AI hardware by Google, featuring the Edge TPU for fast, efficient inference.
 - [Intel Movidius Neural Compute Stick](https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html) - A USB-based neural compute accelerator for running AI models at the edge.
 - [Raspberry Pi](https://www.raspberrypi.org/) - A popular, low-cost single-board computer that can run AI models locally with the help of libraries like TensorFlow Lite.
-- [Arduino Nano 33 BLE Sense](https://www.arduino.cc/pro/nano-33-ble-sense) - An Arduino board designed for AI and machine learning projects at the edge.
-- [Xilinx Edge AI](https://www.xilinx.com/applications/megatrends/edge-ai.html) - AI-enabled FPGAs for real-time processing on edge devices.
+- [Arduino Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense/) - An Arduino board designed for AI and machine learning projects at the edge.
+- [Xilinx Edge AI](https://calder-brief.pages.dev/brainchip-sequora-neuromorphic-generative-ai-edge-october-2026.html) - AI-enabled FPGAs for real-time processing on edge devices.
 
 ## Deployment Platforms
 
